@@ -1,0 +1,12 @@
+D:\KuleSavunmaOyunu\KuleSavunmaOyunu\bin\Debug\KuleSavunmaOyunu.exe.config
+D:\KuleSavunmaOyunu\KuleSavunmaOyunu\bin\Debug\KuleSavunmaOyunu.exe
+D:\KuleSavunmaOyunu\KuleSavunmaOyunu\bin\Debug\KuleSavunmaOyunu.pdb
+D:\KuleSavunmaOyunu\KuleSavunmaOyunu\obj\Debug\KuleSavunmaOyunu.csproj.AssemblyReference.cache
+D:\KuleSavunmaOyunu\KuleSavunmaOyunu\obj\Debug\KuleSavunmaOyunu.AyarlarForm.resources
+D:\KuleSavunmaOyunu\KuleSavunmaOyunu\obj\Debug\KuleSavunmaOyunu.Form1.resources
+D:\KuleSavunmaOyunu\KuleSavunmaOyunu\obj\Debug\KuleSavunmaOyunu.OyunForm.resources
+D:\KuleSavunmaOyunu\KuleSavunmaOyunu\obj\Debug\KuleSavunmaOyunu.Properties.Resources.resources
+D:\KuleSavunmaOyunu\KuleSavunmaOyunu\obj\Debug\KuleSavunmaOyunu.csproj.GenerateResource.cache
+D:\KuleSavunmaOyunu\KuleSavunmaOyunu\obj\Debug\KuleSavunmaOyunu.csproj.CoreCompileInputs.cache
+D:\KuleSavunmaOyunu\KuleSavunmaOyunu\obj\Debug\KuleSavunmaOyunu.exe
+D:\KuleSavunmaOyunu\KuleSavunmaOyunu\obj\Debug\KuleSavunmaOyunu.pdb

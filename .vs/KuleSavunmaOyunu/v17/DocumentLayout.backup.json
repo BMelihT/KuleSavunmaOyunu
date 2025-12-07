@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KuleSavunmaOyunu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|KuleSavunmaOyunu||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|d:\\kulesavunmaoyunu\\kulesavunmaoyunu\\ayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|solutionrelative:kulesavunmaoyunu\\ayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|d:\\kulesavunmaoyunu\\kulesavunmaoyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|solutionrelative:kulesavunmaoyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|D:\\KuleSavunmaOyunu\\kulesavunmaoyunu\\oyunform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|solutionrelative:kulesavunmaoyunu\\oyunform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|d:\\kulesavunmaoyunu\\kulesavunmaoyunu\\oyunform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|solutionrelative:kulesavunmaoyunu\\oyunform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|d:\\kulesavunmaoyunu\\kulesavunmaoyunu\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|solutionrelative:kulesavunmaoyunu\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OyunForm.cs",
+              "DocumentMoniker": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\OyunForm.cs",
+              "RelativeDocumentMoniker": "KuleSavunmaOyunu\\OyunForm.cs",
+              "ToolTip": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\OyunForm.cs",
+              "RelativeToolTip": "KuleSavunmaOyunu\\OyunForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:42:59.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\Form1.cs",
+              "RelativeDocumentMoniker": "KuleSavunmaOyunu\\Form1.cs",
+              "ToolTip": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KuleSavunmaOyunu\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:39:48.535Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ayarlar.cs",
+              "DocumentMoniker": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\ayarlar.cs",
+              "RelativeDocumentMoniker": "KuleSavunmaOyunu\\ayarlar.cs",
+              "ToolTip": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\ayarlar.cs",
+              "RelativeToolTip": "KuleSavunmaOyunu\\ayarlar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:38:12.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KuleSavunmaOyunu",
+              "DocumentMoniker": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj",
+              "RelativeDocumentMoniker": "KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj",
+              "ToolTip": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj",
+              "RelativeToolTip": "KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-07T11:33:23.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OyunForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\OyunForm.cs",
+              "RelativeDocumentMoniker": "KuleSavunmaOyunu\\OyunForm.cs",
+              "ToolTip": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\OyunForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KuleSavunmaOyunu\\OyunForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:33:07.639Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
