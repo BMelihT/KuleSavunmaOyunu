@@ -53,6 +53,12 @@
     <Compile Include="AyarlarForm.Designer.cs">
       <DependentUpon>AyarlarForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="C:\Users\burhan\Desktop\NDP ödev\OyunFormV1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="C:\Users\burhan\Desktop\NDP ödev\OyunFormV1.Designer.cs">
+      <DependentUpon>OyunFormV1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Class1.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -60,22 +66,16 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="OyunForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="OyunForm.Designer.cs">
-      <DependentUpon>OyunForm.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AyarlarForm.resx">
       <DependentUpon>AyarlarForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="C:\Users\burhan\Desktop\NDP ödev\OyunFormV1.resx">
+      <DependentUpon>OyunFormV1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="OyunForm.resx">
-      <DependentUpon>OyunForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
