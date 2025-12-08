@@ -3,14 +3,14 @@
   "WorkspaceRootPath": "D:\\KuleSavunmaOyunu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|c:\\users\\burhan\\desktop\\ndp \u00F6dev\\oyunformv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|c:\\users\\burhan\\desktop\\ndp \u00F6dev\\oyunformv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\ayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|solutionrelative:KuleSavunmaOyunu\\ayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|c:\\users\\burhan\\desktop\\ndp \u00F6dev\\oyunformv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|D:\\KuleSavunmaOyunu\\kulesavunmaoyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -51,33 +51,29 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OyunFormV1.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\burhan\\Desktop\\NDP \u00F6dev\\OyunFormV1.cs",
-              "ToolTip": "C:\\Users\\burhan\\Desktop\\NDP \u00F6dev\\OyunFormV1.cs [Tasar\u0131m]",
+              "ToolTip": "C:\\Users\\burhan\\Desktop\\NDP \u00F6dev\\OyunFormV1.cs [Tasar\u0131m]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T11:33:07.639Z",
               "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "OyunFormV1.cs",
               "DocumentMoniker": "C:\\Users\\burhan\\Desktop\\NDP \u00F6dev\\OyunFormV1.cs",
-              "ToolTip": "C:\\Users\\burhan\\Desktop\\NDP \u00F6dev\\OyunFormV1.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAIAwwFIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\burhan\\Desktop\\NDP \u00F6dev\\OyunFormV1.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwEMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T11:42:59.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ayarlar.cs",
               "DocumentMoniker": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\ayarlar.cs",
               "RelativeDocumentMoniker": "KuleSavunmaOyunu\\ayarlar.cs",
