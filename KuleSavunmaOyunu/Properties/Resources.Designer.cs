@@ -63,6 +63,16 @@ namespace KuleSavunmaOyunu.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap buyu_kule_oyun {
+            get {
+                object obj = ResourceManager.GetObject("buyu_kule_oyun", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap grass_tile_2 {
             get {
                 object obj = ResourceManager.GetObject("grass_tile_2", resourceCulture);
@@ -73,9 +83,39 @@ namespace KuleSavunmaOyunu.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap kule_okcu {
+            get {
+                object obj = ResourceManager.GetObject("kule_okcu", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap lazer_kule_oyun {
+            get {
+                object obj = ResourceManager.GetObject("lazer_kule_oyun", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap sand_tile {
             get {
                 object obj = ResourceManager.GetObject("sand_tile", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap topcu_kule_oyun {
+            get {
+                object obj = ResourceManager.GetObject("topcu_kule_oyun", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

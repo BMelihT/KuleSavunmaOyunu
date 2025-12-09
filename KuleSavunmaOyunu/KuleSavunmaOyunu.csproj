@@ -96,7 +96,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="Resources\Sprites.rar" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -106,6 +105,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\sand_tile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\büyü.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lazer.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
