@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic; 
 
 namespace KuleSavunmaOyunu
 {
-    internal class ISaldirabilir
+    public interface ISaldirabilir
     {
+        // Bu bir kuraldır: "Beni kullanan herkes Saldir komutunu bilmek zorunda" der.
+        void Saldir(List<Dusman> dusmanlar);
     }
 }
