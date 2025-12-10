@@ -33,5 +33,6 @@ namespace KuleSavunmaOyunu
             newGame.Show();
             this.Hide();
         }
+
     }
 }
