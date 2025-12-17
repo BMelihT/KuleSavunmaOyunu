@@ -6,8 +6,8 @@ using System.Windows.Forms;
 
 namespace KuleSavunmaOyunu
 {
-    // 1. ABSTRACT CLASS (Soyut Sınıf - 10 Puan)
-    // Tek başına kullanılamaz, diğer kulelerin "Babası"dır.
+    // 1. ABSTRACT CLASS (Soyut Sınıf)
+    // Tek başına kullanılamaz, diğer kulelerin Babasıdır.
     public abstract class Kule : ISaldirabilir
     {
         public int Fiyat { get; set; }
@@ -18,6 +18,9 @@ namespace KuleSavunmaOyunu
         public Point Konum { get; set; }
         protected Timer SaldiriTimer; // Ateş etme sıklığını kontrol eder
         protected List<Dusman> SahadakiDusmanlar; // Kimi vuracağını bilmeli
+
+        public Dusman SonHedef { get; protected set; }
+        public DateTime SonAtisZamani { get; protected set; }
 
         public Kule(int fiyat, int hasar, int menzil, int atisHizi, Point konum, List<Dusman> dusmanlar)
         {
@@ -52,24 +55,26 @@ namespace KuleSavunmaOyunu
         }
     }
 
-    // 2. INHERITANCE (Miras Alma - 10 Puan)
-    // --- OKÇU KULESİ ---
+    // 2. INHERITANCE (Miras Alma )
+    // OKÇU KULESİ
     public class OkcuKulesi : Kule
     {
         public OkcuKulesi(Point konum, List<Dusman> dusmanlar)
-            : base(100, 15, 150, 800, konum, dusmanlar) { } // Fiyat: 100, Hasar: 15
+        : base(100, 15, 150, 800, konum, dusmanlar) { }
 
-        // POLYMORPHISM (10 Puan): Okçu en yakındaki TEK düşmana saldırır.
         public override void Saldir(List<Dusman> dusmanlar)
         {
             var hedef = dusmanlar
                 .Where(d => !d.OlduMu && MesafeHesapla(this.Konum, d.Gorsel.Location) <= this.Menzil)
-                .OrderBy(d => MesafeHesapla(this.Konum, d.Gorsel.Location)) // En yakını seç
+                .OrderBy(d => MesafeHesapla(this.Konum, d.Gorsel.Location))
                 .FirstOrDefault();
 
             if (hedef != null)
             {
                 hedef.HasarAl(this.Hasar);
+
+                this.SonHedef = hedef;
+                this.SonAtisZamani = DateTime.Now;               
             }
         }
     }
@@ -109,19 +114,25 @@ namespace KuleSavunmaOyunu
     public class BuyuKulesi : Kule
     {
         public BuyuKulesi(Point konum, List<Dusman> dusmanlar)
-            : base(350, 25, 180, 1500, konum, dusmanlar) { }
+            : base(350, 25, 100, 1500, konum, dusmanlar) { }
 
-        // Büyücü aynı anda 3 düşmana saldırır
         public override void Saldir(List<Dusman> dusmanlar)
         {
+            // Menzildeki düşmanları bul
             var hedefler = dusmanlar
                 .Where(d => !d.OlduMu && MesafeHesapla(this.Konum, d.Gorsel.Location) <= this.Menzil)
-                .Take(3) // İlk 3 düşman
                 .ToList();
 
-            foreach (var h in hedefler)
+            // Eğer vuracak en az 1 kişi varsa ateş et
+            if (hedefler.Count > 0)
             {
-                h.HasarAl(this.Hasar);
+                foreach (var h in hedefler)
+                {
+                    h.HasarAl(this.Hasar);
+                }
+
+                this.SonAtisZamani = DateTime.Now;
+                this.SonHedef = hedefler[0];
             }
         }
     }
@@ -130,9 +141,8 @@ namespace KuleSavunmaOyunu
     public class LazerKulesi : Kule
     {
         public LazerKulesi(Point konum, List<Dusman> dusmanlar)
-            : base(500, 5, 200, 100, konum, dusmanlar) { } // Çok seri ama az hasar
+            : base(500, 5, 200, 100, konum, dusmanlar) { }
 
-        // Lazer tek hedefe kilitlenip seri hasar verir 
         public override void Saldir(List<Dusman> dusmanlar)
         {
             var hedef = dusmanlar
@@ -142,6 +152,8 @@ namespace KuleSavunmaOyunu
             if (hedef != null)
             {
                 hedef.HasarAl(this.Hasar);
+                this.SonHedef = hedef;
+                this.SonAtisZamani = DateTime.Now;
             }
         }
     }

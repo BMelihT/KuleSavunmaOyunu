@@ -123,6 +123,16 @@ namespace KuleSavunmaOyunu.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap ok_efekt {
+            get {
+                object obj = ResourceManager.GetObject("ok_efekt", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap ork {
             get {
                 object obj = ResourceManager.GetObject("ork", resourceCulture);
