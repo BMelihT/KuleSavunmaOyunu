@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\KuleSavunmaOyunu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|D:\\KuleSavunmaOyunu\\kulesavunmaoyunu\\kuleler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|solutionrelative:kulesavunmaoyunu\\kuleler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|c:\\users\\burhan\\desktop\\ndp \u00F6dev\\oyunformv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,10 +15,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|c:\\users\\burhan\\desktop\\ndp \u00F6dev\\oyunformv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|D:\\KuleSavunmaOyunu\\kulesavunmaoyunu\\kuleler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|solutionrelative:kulesavunmaoyunu\\kuleler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|D:\\KuleSavunmaOyunu\\kulesavunmaoyunu\\isaldirabilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,7 +39,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Dusman.cs",
               "DocumentMoniker": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\Dusman.cs",
               "RelativeDocumentMoniker": "KuleSavunmaOyunu\\Dusman.cs",
@@ -80,30 +80,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OyunFormV1.cs",
               "DocumentMoniker": "C:\\Users\\burhan\\Desktop\\NDP \u00F6dev\\OyunFormV1.cs",
               "ToolTip": "C:\\Users\\burhan\\Desktop\\NDP \u00F6dev\\OyunFormV1.cs*",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAAAJUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABYCAAAAAAAAAAAAANoBAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T11:42:59.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Kuleler.cs",
               "DocumentMoniker": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\Kuleler.cs",
               "RelativeDocumentMoniker": "KuleSavunmaOyunu\\Kuleler.cs",
-              "ToolTip": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\Kuleler.cs",
-              "RelativeToolTip": "KuleSavunmaOyunu\\Kuleler.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAYwIUAAAAyAAAAAAAAAA==",
+              "ToolTip": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\Kuleler.cs*",
+              "RelativeToolTip": "KuleSavunmaOyunu\\Kuleler.cs*",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAIsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:12:24.075Z"
+              "WhenOpened": "2025-12-10T15:12:24.075Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OyunFormV1.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\burhan\\Desktop\\NDP \u00F6dev\\OyunFormV1.cs",
               "ToolTip": "C:\\Users\\burhan\\Desktop\\NDP \u00F6dev\\OyunFormV1.cs [Tasar\u0131m]*",

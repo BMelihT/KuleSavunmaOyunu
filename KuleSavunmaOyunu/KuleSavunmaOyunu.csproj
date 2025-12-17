@@ -136,5 +136,8 @@
   <ItemGroup>
     <None Include="Resources\ok_efekt.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gulle_efekt.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
