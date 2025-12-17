@@ -9,20 +9,20 @@
       "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|c:\\users\\burhan\\desktop\\ndp \u00F6dev\\oyunformv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|D:\\KuleSavunmaOyunu\\kulesavunmaoyunu\\dusman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|solutionrelative:kulesavunmaoyunu\\dusman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|D:\\KuleSavunmaOyunu\\kulesavunmaoyunu\\isaldirabilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|solutionrelative:kulesavunmaoyunu\\isaldirabilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|D:\\KuleSavunmaOyunu\\kulesavunmaoyunu\\kuleler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|solutionrelative:kulesavunmaoyunu\\kuleler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|D:\\KuleSavunmaOyunu\\kulesavunmaoyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|solutionrelative:kulesavunmaoyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|D:\\KuleSavunmaOyunu\\kulesavunmaoyunu\\dusman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|solutionrelative:kulesavunmaoyunu\\dusman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|D:\\KuleSavunmaOyunu\\kulesavunmaoyunu\\isaldirabilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ACB41E-7F50-472D-B943-0C75AC498A13}|KuleSavunmaOyunu\\KuleSavunmaOyunu.csproj|solutionrelative:kulesavunmaoyunu\\isaldirabilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|KuleSavunmaOyunu||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
@@ -39,7 +39,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,17 +67,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OyunFormV1.cs [Tasar\u0131m]",
+              "DocumentIndex": 0,
+              "Title": "OyunFormV1.cs",
               "DocumentMoniker": "C:\\Users\\burhan\\Desktop\\NDP \u00F6dev\\OyunFormV1.cs",
-              "ToolTip": "C:\\Users\\burhan\\Desktop\\NDP \u00F6dev\\OyunFormV1.cs [Tasar\u0131m]*",
+              "ToolTip": "C:\\Users\\burhan\\Desktop\\NDP \u00F6dev\\OyunFormV1.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAADwv6oAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T11:33:07.639Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2025-12-07T11:42:59.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Kuleler.cs",
+              "DocumentMoniker": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\Kuleler.cs",
+              "RelativeDocumentMoniker": "KuleSavunmaOyunu\\Kuleler.cs",
+              "ToolTip": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\Kuleler.cs",
+              "RelativeToolTip": "KuleSavunmaOyunu\\Kuleler.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:12:24.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OyunFormV1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\burhan\\Desktop\\NDP \u00F6dev\\OyunFormV1.cs",
+              "ToolTip": "C:\\Users\\burhan\\Desktop\\NDP \u00F6dev\\OyunFormV1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:33:07.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ISaldirabilir.cs",
               "DocumentMoniker": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\ISaldirabilir.cs",
               "RelativeDocumentMoniker": "KuleSavunmaOyunu\\ISaldirabilir.cs",
@@ -85,12 +107,11 @@
               "RelativeToolTip": "KuleSavunmaOyunu\\ISaldirabilir.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:11:39.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T15:11:39.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Dusman.cs",
               "DocumentMoniker": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\Dusman.cs",
               "RelativeDocumentMoniker": "KuleSavunmaOyunu\\Dusman.cs",
@@ -98,36 +119,11 @@
               "RelativeToolTip": "KuleSavunmaOyunu\\Dusman.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAIwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:11:59.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T15:11:59.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Kuleler.cs",
-              "DocumentMoniker": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\Kuleler.cs",
-              "RelativeDocumentMoniker": "KuleSavunmaOyunu\\Kuleler.cs",
-              "ToolTip": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\Kuleler.cs",
-              "RelativeToolTip": "KuleSavunmaOyunu\\Kuleler.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAQwIcAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:12:24.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OyunFormV1.cs",
-              "DocumentMoniker": "C:\\Users\\burhan\\Desktop\\NDP \u00F6dev\\OyunFormV1.cs",
-              "ToolTip": "C:\\Users\\burhan\\Desktop\\NDP \u00F6dev\\OyunFormV1.cs*",
-              "ViewState": "AgIAACoBAAAAAAAAAAAcwDUBAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T11:42:59.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\KuleSavunmaOyunu\\KuleSavunmaOyunu\\Form1.cs",
               "RelativeDocumentMoniker": "KuleSavunmaOyunu\\Form1.cs",

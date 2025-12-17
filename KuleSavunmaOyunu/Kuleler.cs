@@ -105,7 +105,7 @@ namespace KuleSavunmaOyunu
         }
     }
 
-    // --- BÜYÜ KULESİ ---
+    //BÜYÜ KULESİ 
     public class BuyuKulesi : Kule
     {
         public BuyuKulesi(Point konum, List<Dusman> dusmanlar)
@@ -126,13 +126,13 @@ namespace KuleSavunmaOyunu
         }
     }
 
-    // --- LAZER KULESİ ---
+    // LAZER KULESİ
     public class LazerKulesi : Kule
     {
         public LazerKulesi(Point konum, List<Dusman> dusmanlar)
-            : base(500, 5, 200, 100, konum, dusmanlar) { } // Çok seri (100ms) ama az hasar
+            : base(500, 5, 200, 100, konum, dusmanlar) { } // Çok seri ama az hasar
 
-        // Lazer tek hedefe kilitlenip seri hasar verir (Boss eritici)
+        // Lazer tek hedefe kilitlenip seri hasar verir 
         public override void Saldir(List<Dusman> dusmanlar)
         {
             var hedef = dusmanlar
