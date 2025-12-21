@@ -83,7 +83,7 @@ namespace KuleSavunmaOyunu
     public class TopcuKulesi : Kule
     {
         public TopcuKulesi(Point konum, List<Dusman> dusmanlar)
-            : base(200, 30, 120, 2000, konum, dusmanlar) { } // Fiyat: 250, Hasar: 40
+            : base(200, 30, 120, 2000, konum, dusmanlar) { }
 
         // Topçu, vurduğu düşmanın çevresindeki herkese hasar verir (Alan Hasarı)
         public override void Saldir(List<Dusman> dusmanlar)
@@ -97,11 +97,14 @@ namespace KuleSavunmaOyunu
                 // Ana hedefi vur
                 anaHedef.HasarAl(this.Hasar);
 
+                this.SonAtisZamani = DateTime.Now;
+                this.SonHedef = anaHedef;
+
                 // Patlama etkisi: Ana hedefe 60px yakın olan diğerlerini de vur
                 foreach (var yanHedef in dusmanlar.ToList())
                 {
                     if (yanHedef != anaHedef && !yanHedef.OlduMu &&
-                        MesafeHesapla(anaHedef.Gorsel.Location, yanHedef.Gorsel.Location) < 50)
+                        MesafeHesapla(anaHedef.Gorsel.Location, yanHedef.Gorsel.Location) < 60)
                     {
                         yanHedef.HasarAl(this.Hasar / 2); // Yan hedef yarı hasar alır
                     }

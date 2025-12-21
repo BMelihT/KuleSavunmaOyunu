@@ -10,13 +10,11 @@ using System.Windows.Forms;
 
 namespace KuleSavunmaOyunu
 {
-    public partial class AyarlarForm : Form
+    public partial class Form2 : Form
     {
-        public AyarlarForm()
+        public Form2()
         {
             InitializeComponent();
         }
-
-
     }
 }
